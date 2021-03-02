@@ -4,4 +4,4 @@ by Dr. Hu
 from [CSE@SUSTech](hucf@sustech.edu.cn)
 
 #一起成长 - 家庭教育工程  - 思考和行动
-by 与孩子一起成长的工程教育er - Hu老师
+by 与孩子一起成长的工程教育er - Hoo老师
